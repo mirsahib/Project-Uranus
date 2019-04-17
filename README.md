@@ -48,6 +48,8 @@ We have modeled our decision tree into two classifiers,One classifier with gini 
 
 
 **Confusion matrix using Information gain as criterion**
+
+
 ![information gain](https://github.com/mirsahib/Project-Andromeda/blob/master/image/info.png)
 
 
