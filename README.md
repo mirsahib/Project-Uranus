@@ -40,8 +40,8 @@ We have modeled our decision tree into two classifiers,One classifier with gini 
 
 ### Confusion Matrix :
 **Confusion matrix using gini index as criterion**
-![https://github.com/mirsahib/Project-Andromeda/blob/master/image/gini.jpg](gini confusion matrix)
-![https://github.com/mirsahib/Project-Andromeda/blob/master/image/gini_heat.png](gini heat map)
+![gini confusion matrix](https://github.com/mirsahib/Project-Andromeda/blob/master/image/gini.jpg)
+![gini heat map](https://github.com/mirsahib/Project-Andromeda/blob/master/image/gini_heat.png)
 **Confusion matrix using Information gain as criterion**
-![https://github.com/mirsahib/Project-Andromeda/blob/master/image/info.png](information gain)
-![https://github.com/mirsahib/Project-Andromeda/blob/master/image/infoheatupdate.png](information heat gain)
+![information gain](https://github.com/mirsahib/Project-Andromeda/blob/master/image/info.png)
+![info heat](https://github.com/mirsahib/Project-Andromeda/blob/master/image/infoheatupdate.png)
