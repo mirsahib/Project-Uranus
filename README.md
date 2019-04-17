@@ -1,3 +1,5 @@
+<div style="text-align:center"><span style="font-family:Georgia; font-size:2em; font-weight:bold">Classifying hand position using Inertial Measurement Unit</span></div>
+
 ### Introduction: 
 
 In this project we present the development and implementation of an Inertial Measurement Unit  device which is used to collect data(accelerometer,gyroscope,magnetometer) from different position of the human hand.
@@ -5,7 +7,7 @@ In this project we present the development and implementation of an Inertial Mea
 ### Description:
 The data of the IMU are collected from both hand at five different position (10 position in total),The position of the hand is shown in Fig 1 and Fig 2.
 
-![https://github.com/mirsahib/Project-Andromeda/blob/master/image/class1_6.jpg](image)
+<img width=500 src="image/class1_6.jpg">
 
 <center>Fig 1: Subject holding IMU at position 1 to 6</center>
 
