@@ -26,7 +26,7 @@ From each position we have collected 250 sets of reading than we label this read
 1. MPU 9250 9 axis IMU
 2. Arduino Nano
 3. DS 1307 RTC module
-4. Micro SD Car
+4. Micro SD Card
 
 <img width=300 src="image/hardware.jpg">
 
