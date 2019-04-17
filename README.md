@@ -38,4 +38,10 @@ We have collected 10 set of data (350+ reading) by holding the hand at 10 differ
 ### Decision Tree:
 We have modeled our decision tree into two classifiers,One classifier with gini index and another one is with information gain as the criterion.For both of the classifier we use max_depth= 3 , min_sample_leaf=5 and a random_state=100.Using gini index as the criterion we get 39% accuracy and 81% accuracy when we used information gain as the criterion.
 
-###Dataset :
+### Confusion Matrix :
+**Confusion matrix using gini index as criterion**
+![https://github.com/mirsahib/Project-Andromeda/blob/master/image/gini.jpg](gini confusion matrix)
+![https://github.com/mirsahib/Project-Andromeda/blob/master/image/gini_heat.png](gini heat map)
+**Confusion matrix using Information gain as criterion**
+![https://github.com/mirsahib/Project-Andromeda/blob/master/image/info.png](information gain)
+![https://github.com/mirsahib/Project-Andromeda/blob/master/image/infoheatupdate.png](information heat gain)
