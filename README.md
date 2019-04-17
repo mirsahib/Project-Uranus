@@ -19,6 +19,8 @@ The data of the IMU are collected from both hand at five different position (10 
 <center>Fig 2: Subject holding IMU at position 7 to 10</center>
 
 
+
+
 From each position we have collected 250 sets of reading than we label this reading according to their position (eg:for position 1 its 1),then each position dataset is recompile to a larger dataset where every position data are stored.The size of this recompile data set is 1500 by 10.This dataset is then split into 30/70 ratio,30% for testing process and 70% is for training process.We used decision tree to classify those 10 different position and we have found that by using gini index as the decision tree criterion we get 39%  accuracy and by using information gain as the decision tree criterion we get 81% accuracy.
 ### Hardware used:
 1. MPU 9250 9 axis IMU
