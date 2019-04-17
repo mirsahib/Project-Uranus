@@ -1,4 +1,4 @@
-<div style="text-align:center"><span style="font-family:Georgia; font-size:2em; font-weight:bold">Classifying hand position using Inertial Measurement Unit</span></div>
+# Classifying hand position using Inertial Measurement Unit
 
 ### Introduction: 
 
