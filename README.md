@@ -60,3 +60,7 @@ We have modeled our decision tree into two classifiers,One classifier with gini 
 
 ### Dataset
 [Link](https://github.com/mirsahib/Project-Andromeda/tree/master/Dataset)
+
+### Reference
+[Link1](http://dataaspirant.com/2017/02/01/decision-tree-algorithm-python-with-scikit-learn/)
+[Link2](https://en.wikipedia.org/wiki/Flag_semaphore)
