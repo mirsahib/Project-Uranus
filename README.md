@@ -30,6 +30,8 @@ From each position we have collected 250 sets of reading than we label this read
 
 <img width=300 src="image/hardware.jpg">
 
+Fig 3: Inertial Measurement Unit
+
 ### Hardware Description: 
 The device is assembled according to the given image Fig 2.The MPU 9250(IMU) send 3 set of data to arduino nano from 3 sensors,The sensors are accelerometer,gyroscope and magnetometer.The DS 1307 rtc is a real time clock module which give the time stamp for each reading.This reading is collected by arduino nano and write it in a csv file using the micro sd card module.
 
