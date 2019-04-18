@@ -54,3 +54,9 @@ We have modeled our decision tree into two classifiers,One classifier with gini 
 
 
 ![info heat](https://github.com/mirsahib/Project-Andromeda/blob/master/image/infoheatupdate.png)
+
+### Code
+![](https://github.com/mirsahib/Project-Andromeda/blob/master/IMU_updated.ipynb)
+
+### Dataset
+![](https://github.com/mirsahib/Project-Andromeda/tree/master/Dataset)
